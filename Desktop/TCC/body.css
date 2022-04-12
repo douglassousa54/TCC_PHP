@@ -1,0 +1,16 @@
+footer {
+    width: auto;
+    height: 50px;
+    padding: 500px; ;
+    background-image: url("https://site.docg.com.br/wp-content/uploads/2019/06/brincadeiras.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+
+}
+
+h1 {
+color:black;
+width: auto;
+}
