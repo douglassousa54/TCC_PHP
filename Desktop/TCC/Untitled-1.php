@@ -40,16 +40,34 @@
           <a class="nav-link active" aria-current="page" href="#">Contatos</a>
         </li>
       </ul>
+      <div class="container">
+        <header>
+          <H4>Menu Inicial </H4>
+</header>
+        <button class="Btn Btn-Quem somos nós">Quem somos nós</button>
+        <button class="btn btn-Missão">Missão</button>
+        <button class="btn btn-Visão">Visão</button>
+        <button class="btn btn-Valores">valores</button>
+
+</div>
         </div>
   </div>
 </nav>
 </Main>
 <footer class="footer">
-    <div class=Texto>
-    <H1>Venha descomplicar o dia dia da sua clinica e de seus clientes</H1>
-    </div>
-    
+ 
+    <div class=container>
+      <div class="row"
+      <div class="col-6"
+      <div class="fundo-vermelho ">
+      <H1>Lorem ipsum dolor sit amet consectetur adipisicing eliecessitatibus praesentium delectus similique dolor dolorem libero!</H1>
+</div>
+</div>
+</div>
+</div>
+
 </footer>
 
 </body>
 </html>
+
