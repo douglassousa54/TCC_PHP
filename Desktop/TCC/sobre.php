@@ -1,7 +1,6 @@
-<?php include "cabeçalho.php" ?>
-<?php include "Navbar.php" ?>
+<?php
+?>
 
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -16,7 +15,8 @@
 
 </head>
 <body>
-    <Main class= "main">
+
+<Main class= "main">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Descomplica Vet</a>
@@ -26,10 +26,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Sobre</a>
+          <a class="nav-link active" aria-current="page" href="https://www.simples.vet/">Sobre</a> 
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Valor</a>
+          <a class="nav-link active" aria-current="page" href="https://www.simples.vet/precos/">Valor</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Criadores</a>
@@ -41,36 +41,22 @@
           <a class="nav-link active" aria-current="page" href="#">Contatos</a>
         </li>
       </ul>
-      <div class="container">
-        <header>
-          <H4>Menu Inicial </H4>
-</header>
-        <button class="Btn Btn-Quem somos nós">Quem somos nós</button>
-        <button class="btn btn-Missão">Missão</button>
-        <button class="btn btn-Visão">Visão</button>
-        <button class="btn btn-Valores">valores</button>
-
-</div>
         </div>
   </div>
 </nav>
 </Main>
-=======
->>>>>>> 2080d69bc42e6a258b767d045bd564232e84ba15
-<footer class="footer">
+<div>
+    <p> Dedicação e vontade de contribuir para o crescimento do se comercio Pet.
+Pensamos nesta solução para as empresas na época do ETEC, em 2022. Desde então, buscamos melhorar nossos conhecimentos e com isso deixar a ferramenta cada vez mais intuitiva e funcional para os nossos clientes e clientes dos nossos clientes.
+Hoje estamos 100% dedicados a atender as necessidades dos nossos clientes, afim de melhorar o aplicativo e desta forma trazer mais usuários para a plataforma. Desta forma garantindo a satisfação de todos!
+</p>
  
-    <div class=container>
-      <div class="row"
-      <div class="col-6"
-      <div class="fundo-vermelho ">
-      <H1>Lorem ipsum dolor sit amet consectetur adipisicing eliecessitatibus praesentium delectus similique dolor dolorem libero!</H1>
+<h2>Missão</h2>
+<p>Ser simples no atendimento e com disse atender as necessidades de nossas lojas pets e seus clientes!</p>
+<h2>Visão</h2>
+<p>Simplificar para facilitar o relacionamento loja/cliente </p>
+<h2>Valores</h2>
+<p>Simplicidade é a base.
+Cliente em primeiro lugar 
+</p>
 </div>
-</div>
-</div>
-</div>
-
-</footer>
-
-</body>
-</html>
-
