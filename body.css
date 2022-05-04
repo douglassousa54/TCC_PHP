@@ -9,6 +9,15 @@ footer {
     
 
 }
+#top {
+    width: auto;
+    height: 50px;
+    padding: 300px;
+    background-image: url("https://site.docg.com.br/wp-content/uploads/2019/06/caes-e-gatos-precisam-de-cuidados-especiais-no-inverno-1.jpg");
+    Background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 
 h1 {
 color:black;
